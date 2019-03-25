@@ -1,0 +1,13 @@
+Week One Rubric:
+
+	Points Possible: 40
+
+		10 Points ---------- Log at least 6 Hours this week
+
+		10 Points ---------- Implement 2D movement
+
+		10 Points ---------- Create a general C# file for animating sprites
+
+		10 Points ---------- Implement attacks for all player characters
+
+
