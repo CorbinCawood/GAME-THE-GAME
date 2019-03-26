@@ -1,15 +1,11 @@
- Rubric:
+Project Milestones:
 
-	Implement atleast 2 Animations using a data structure discussed in class---------------- 10 Points
+	1. Implement combat between players and enemies
 
-	Contribute to the design and implementation of at least 2 dungeons---------------------- 10 Points
+	2. Implement at least one boss fight
 
-	Set up multiplayer networking in the all dungeons implemented above ------ 10 Points
+	3. Implement multiplayer functionality
 
-	Actively test and debug new code added to the git hub repo throughout the project --- 5 Points
+	4. Fully implement all sound, and music
 
-	QA Testing before final submission ------------------------------------------------------------ 5 Points
-
-
-
-	
+	5. Gain a full understanding of C#
