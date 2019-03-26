@@ -7,23 +7,28 @@ public class simpleMovement : MonoBehaviour
 
     public float speed;
 
-    private Rigidbody rb;
+    private Rigidbody2D rb;
     
     
     // Start is called before the first frame update
     void Start()
     {
-        rb = GetComponent<Rigidbody>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        float moveVertical = Input.GetAxis("Vertical");
+        if (Input.GetAxis("Horizontal") != 0 || Input.GetAxis("Vertical") != 0)
+        {
 
-        Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
-
-        rb.AddForce(movement * speed);
+            float moveHorizontal = Input.GetAxis("Horizontal");
+            float moveVertical = Input.GetAxis("Vertical");
+            rb.velocity = new Vector2(moveHorizontal*speed, moveVertical*speed);
+        }
+        else
+        {
+            rb.velocity = new Vector2(0.0f, 0.0f);
+        }
     }
 }
