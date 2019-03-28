@@ -23,6 +23,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="IPlayer.cs" t="Include" />
           <e p="simpleMovement.cs" t="Include" />
           <e p="spriteAnimator.cs" t="Include" />
         </e>
