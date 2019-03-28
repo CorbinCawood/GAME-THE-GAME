@@ -24,7 +24,7 @@ public class simpleMovement : MonoBehaviour
 
             float moveHorizontal = Input.GetAxis("Horizontal");
             float moveVertical = Input.GetAxis("Vertical");
-            rb.velocity = new Vector2(moveHorizontal*speed, moveVertical*speed);
+            rb.velocity = new Vector2(moveHorizontal*speed*Time.deltaTime, moveVertical*speed*Time.deltaTime);
         }
         else
         {
