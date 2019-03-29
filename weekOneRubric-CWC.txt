@@ -1,0 +1,7 @@
+Rubric:
+
+	1. Implement and test movement script--------------------------> 10 Points
+
+	2. Implement and test animation script-------------------------> 10 Points
+
+	3. Design the first dungeon------------------------------------> 20 Points

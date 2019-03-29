@@ -1,0 +1,7 @@
+Project Milestones:
+
+	1. Write an animation script that can be applied to all sprites
+
+	2. Finish movement script
+
+	3. Design the first dungeon.
