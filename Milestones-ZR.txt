@@ -1,0 +1,5 @@
+Install all required software for the project --- 10 points
+
+Get familiar with the game and the plan for building it -- 10 points
+
+Begin developing a GUI for the game menu -- 20 points

@@ -1,0 +1,21 @@
+Week One Rubric:
+
+	Points Possible: 40
+
+		10 points ---- Install all required software for the project
+		Progress: Complete
+		Notes: All components installed
+		Hours: 1
+		Score: 10
+
+		10 points ---- Get familiar with the game and the plan for 				building it
+		Progress: Complete
+		Notes: Had a team meeting to discuss road map for game
+		Hours: 1
+		Score: 10
+
+		20 points ---- Begin developing GUI for game menu
+		Progress: In progress
+		Notes: Have begun working on this. Learning basics and getting it 		set up.
+		Hours: 4
+		Score: 20
