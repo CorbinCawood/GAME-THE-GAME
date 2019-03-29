@@ -1,11 +1,7 @@
 Project Milestones:
 
-	1. Implement combat between players and enemies
+	1. Write an animation script that can be applied to all sprites
 
-	2. Implement at least one boss fight
+	2. Finish movement script
 
-	3. Implement multiplayer functionality
-
-	4. Fully implement all sound, and music
-
-	5. Gain a full understanding of C#
+	3. Design the first dungeon.
