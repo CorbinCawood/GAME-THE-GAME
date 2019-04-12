@@ -39,6 +39,7 @@ public class Player : IPlayer
 {
 
     public string Name { get; set; }
+    public Vector3 Position { get; set; }
     public Dictionary<string,List<string>> Characteristics { get; set; }
     public Dictionary<string, int> Inventory { get; set; }
     public Dictionary<string, int> Stats { get; set;}
