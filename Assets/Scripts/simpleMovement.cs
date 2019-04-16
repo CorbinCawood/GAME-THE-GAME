@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System;
 using UnityEngine;
+using UnityEngine.Experimental.UIElements;
 
 public class simpleMovement : MonoBehaviour
 {
@@ -8,12 +10,32 @@ public class simpleMovement : MonoBehaviour
     public float speed;
 
     private Rigidbody2D rb;
-    
-    
+
+    private TreeGraph tg;
     // Start is called before the first frame update
     void Start()
-    {
+    {    
+        tg = new TreeGraph();
         rb = GetComponent<Rigidbody2D>();
+        tg.BuildEdges(new Tuple<string, string>("a","b"),
+            new Tuple<string, string>("a","c"),
+            new Tuple<string, string>("b","c"),
+            new Tuple<string, string>("d","c"),
+            new Tuple<string, string>("e","f"),
+            new Tuple<string, string>("e","f")
+        );
+        Console.WriteLine("backedges");
+        foreach (var kv in tg.nodeLookup)
+        {
+            string output="";
+            output += kv.Key + ":";
+            foreach (var edge in kv.Value.back_edges)
+            {
+                output+=edge+",";
+            }
+
+            Debug.Log(output);
+        }
     }
 
     // Update is called once per frame
