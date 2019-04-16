@@ -3,448 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e8dd5676-217a-49d4-b64b-034a153d5692" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GAME-THE-GAME/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GAME-THE-GAME/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GAME-THE-GAME/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GAME-THE-GAME/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GAME-THE-GAME/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GAME-THE-GAME/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Idle.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Idle/Player_Idle_Axe_Defence0_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Idle/Player_Idle_Axe_Defence0_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Idle/Player_Idle_Axe_Defence0_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Idle/Player_Idle_Axe_Defence0_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Idle/Player_Idle_Axe_Defence0_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Idle/Player_Idle_Axe_Defence0_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Idle/Player_Idle_Axe_Defence0_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Idle/Player_Idle_Axe_Defence0_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/IPlayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/spriteAnimator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/spriteAnimator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprite Animation and Testing.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprite Animation and Testing.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Attack_Axe_Defence0_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Attack_Axe_Defence0_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Attack_Axe_Defence0_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Attack_Axe_Defence0_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Attack_Axe_Defence0_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Attack_Axe_Defence0_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Attack_Axe_Defence0_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Attack_Axe_Defence0_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Walk_Axe_Defence0_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Walk_Axe_Defence0_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Walk_Axe_Defence0_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Walk_Axe_Defence0_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Walk_Axe_Defence0_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Walk_Axe_Defence0_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Walk_Axe_Defence0_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence0/Player_Walk_Axe_Defence0_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Attack_Axe_Defence1_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Attack_Axe_Defence1_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Attack_Axe_Defence1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Attack_Axe_Defence1_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Attack_Axe_Defence1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Attack_Axe_Defence1_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Attack_Axe_Defence1_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Attack_Axe_Defence1_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Idle_Axe_Defence1_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Idle_Axe_Defence1_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Idle_Axe_Defence1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Idle_Axe_Defence1_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Idle_Axe_Defence1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Idle_Axe_Defence1_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Idle_Axe_Defence1_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Idle_Axe_Defence1_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Walk_Axe_Defence1_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Walk_Axe_Defence1_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Walk_Axe_Defence1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Walk_Axe_Defence1_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Walk_Axe_Defence1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Walk_Axe_Defence1_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Walk_Axe_Defence1_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence1/Player_Walk_Axe_Defence1_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Attack_Axe_Defence2_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Attack_Axe_Defence2_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Attack_Axe_Defence2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Attack_Axe_Defence2_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Attack_Axe_Defence2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Attack_Axe_Defence2_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Attack_Axe_Defence2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Attack_Axe_Defence2_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Idle_Axe_Defence2_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Idle_Axe_Defence2_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Idle_Axe_Defence2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Idle_Axe_Defence2_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Idle_Axe_Defence2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Idle_Axe_Defence2_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Idle_Axe_Defence2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Idle_Axe_Defence2_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Walk_Axe_Defence2_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Walk_Axe_Defence2_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Walk_Axe_Defence2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Walk_Axe_Defence2_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Walk_Axe_Defence2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Walk_Axe_Defence2_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Walk_Axe_Defence2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence2/Player_Walk_Axe_Defence2_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Attack_Axe_Defence3_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Attack_Axe_Defence3_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Attack_Axe_Defence3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Attack_Axe_Defence3_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Attack_Axe_Defence3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Attack_Axe_Defence3_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Attack_Axe_Defence3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Attack_Axe_Defence3_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Idle_Axe_Defence3_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Idle_Axe_Defence3_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Idle_Axe_Defence3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Idle_Axe_Defence3_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Idle_Axe_Defence3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Idle_Axe_Defence3_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Idle_Axe_Defence3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Idle_Axe_Defence3_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Walk_Axe_Defence3_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Walk_Axe_Defence3_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Walk_Axe_Defence3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Walk_Axe_Defence3_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Walk_Axe_Defence3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Walk_Axe_Defence3_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Walk_Axe_Defence3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence3/Player_Walk_Axe_Defence3_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Attack_Axe_Defence4_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Attack_Axe_Defence4_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Attack_Axe_Defence4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Attack_Axe_Defence4_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Attack_Axe_Defence4_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Attack_Axe_Defence4_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Attack_Axe_Defence4_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Attack_Axe_Defence4_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Idle_Axe_Defence4_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Idle_Axe_Defence4_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Idle_Axe_Defence4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Idle_Axe_Defence4_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Idle_Axe_Defence4_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Idle_Axe_Defence4_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Idle_Axe_Defence4_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Idle_Axe_Defence4_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Walk_Axe_Defence4_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Walk_Axe_Defence4_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Walk_Axe_Defence4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Walk_Axe_Defence4_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Walk_Axe_Defence4_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Walk_Axe_Defence4_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Walk_Axe_Defence4_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Defence4/Player_Walk_Axe_Defence4_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Player_Death_Axe_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Player_Death_Axe_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Player_Death_Axe_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Player_Death_Axe_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Player_Death_Axe_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Player_Death_Axe_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Player_Death_Axe_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Axe/Player_Death_Axe_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Attack_Scepter_Defence0_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Attack_Scepter_Defence0_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Attack_Scepter_Defence0_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Attack_Scepter_Defence0_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Attack_Scepter_Defence0_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Attack_Scepter_Defence0_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Attack_Scepter_Defence0_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Attack_Scepter_Defence0_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Idle_Scepter_Defence0_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Idle_Scepter_Defence0_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Idle_Scepter_Defence0_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Idle_Scepter_Defence0_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Idle_Scepter_Defence0_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Idle_Scepter_Defence0_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Idle_Scepter_Defence0_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Idle_Scepter_Defence0_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Walk_Scepter_Defence0_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Walk_Scepter_Defence0_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Walk_Scepter_Defence0_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Walk_Scepter_Defence0_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Walk_Scepter_Defence0_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Walk_Scepter_Defence0_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Walk_Scepter_Defence0_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence0/Player_Walk_Scepter_Defence0_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Attack_Scepter_Defence1_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Attack_Scepter_Defence1_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Attack_Scepter_Defence1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Attack_Scepter_Defence1_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Attack_Scepter_Defence1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Attack_Scepter_Defence1_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Attack_Scepter_Defence1_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Attack_Scepter_Defence1_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Idle_Scepter_Defence1_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Idle_Scepter_Defence1_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Idle_Scepter_Defence1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Idle_Scepter_Defence1_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Idle_Scepter_Defence1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Idle_Scepter_Defence1_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Idle_Scepter_Defence1_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Idle_Scepter_Defence1_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Walk_Scepter_Defence1_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Walk_Scepter_Defence1_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Walk_Scepter_Defence1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Walk_Scepter_Defence1_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Walk_Scepter_Defence1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Walk_Scepter_Defence1_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Walk_Scepter_Defence1_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence1/Player_Walk_Scepter_Defence1_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Attack_Scepter_Defence2_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Attack_Scepter_Defence2_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Attack_Scepter_Defence2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Attack_Scepter_Defence2_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Attack_Scepter_Defence2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Attack_Scepter_Defence2_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Attack_Scepter_Defence2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Attack_Scepter_Defence2_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Idle_Scepter_Defence2_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Idle_Scepter_Defence2_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Idle_Scepter_Defence2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Idle_Scepter_Defence2_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Idle_Scepter_Defence2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Idle_Scepter_Defence2_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Idle_Scepter_Defence2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Idle_Scepter_Defence2_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Walk_Scepter_Defence2_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Walk_Scepter_Defence2_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Walk_Scepter_Defence2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Walk_Scepter_Defence2_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Walk_Scepter_Defence2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Walk_Scepter_Defence2_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Walk_Scepter_Defence2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence2/Player_Walk_Scepter_Defence2_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Attack_Scepter_Defence3_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Attack_Scepter_Defence3_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Attack_Scepter_Defence3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Attack_Scepter_Defence3_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Attack_Scepter_Defence3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Attack_Scepter_Defence3_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Attack_Scepter_Defence3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Attack_Scepter_Defence3_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Idle_Scepter_Defence3_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Idle_Scepter_Defence3_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Idle_Scepter_Defence3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Idle_Scepter_Defence3_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Idle_Scepter_Defence3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Idle_Scepter_Defence3_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Idle_Scepter_Defence3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Idle_Scepter_Defence3_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Walk_Scepter_Defence3_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Walk_Scepter_Defence3_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Walk_Scepter_Defence3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Walk_Scepter_Defence3_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Walk_Scepter_Defence3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Walk_Scepter_Defence3_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Walk_Scepter_Defence3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence3/Player_Walk_Scepter_Defence3_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Attack_Scepter_Defence4_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Attack_Scepter_Defence4_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Attack_Scepter_Defence4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Attack_Scepter_Defence4_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Attack_Scepter_Defence4_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Attack_Scepter_Defence4_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Attack_Scepter_Defence4_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Attack_Scepter_Defence4_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Idle_Scepter_Defence4_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Idle_Scepter_Defence4_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Idle_Scepter_Defence4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Idle_Scepter_Defence4_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Idle_Scepter_Defence4_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Idle_Scepter_Defence4_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Idle_Scepter_Defence4_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Idle_Scepter_Defence4_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Walk_Scepter_Defence4_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Walk_Scepter_Defence4_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Walk_Scepter_Defence4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Walk_Scepter_Defence4_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Walk_Scepter_Defence4_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Walk_Scepter_Defence4_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Walk_Scepter_Defence4_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Defence4/Player_Walk_Scepter_Defence4_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Player_Death_Scepter_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Player_Death_Scepter_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Player_Death_Scepter_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Player_Death_Scepter_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Player_Death_Scepter_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Player_Death_Scepter_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Player_Death_Scepter_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Scepter/Player_Death_Scepter_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Attack_Special_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Attack_Special_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Attack_Special_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Attack_Special_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Attack_Special_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Attack_Special_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Attack_Special_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Attack_Special_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Death_Special_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Death_Special_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Death_Special_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Death_Special_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Death_Special_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Death_Special_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Death_Special_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Death_Special_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Idle_Special_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Idle_Special_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Idle_Special_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Idle_Special_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Idle_Special_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Idle_Special_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Idle_Special_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Idle_Special_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Walk_Special_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Walk_Special_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Walk_Special_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Walk_Special_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Walk_Special_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Walk_Special_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Walk_Special_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Special/Player_Walk_Special_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Attack_Sword_Defence0_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Attack_Sword_Defence0_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Attack_Sword_Defence0_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Attack_Sword_Defence0_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Attack_Sword_Defence0_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Attack_Sword_Defence0_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Attack_Sword_Defence0_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Attack_Sword_Defence0_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Idle_Sword_Defence0_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Idle_Sword_Defence0_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Idle_Sword_Defence0_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Idle_Sword_Defence0_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Idle_Sword_Defence0_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Idle_Sword_Defence0_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Idle_Sword_Defence0_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Idle_Sword_Defence0_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Walk_Sword_Defence0_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Walk_Sword_Defence0_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Walk_Sword_Defence0_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Walk_Sword_Defence0_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Walk_Sword_Defence0_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Walk_Sword_Defence0_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Walk_Sword_Defence0_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence0/Player_Walk_Sword_Defence0_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Attack_Sword_Defence1_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Attack_Sword_Defence1_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Attack_Sword_Defence1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Attack_Sword_Defence1_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Attack_Sword_Defence1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Attack_Sword_Defence1_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Attack_Sword_Defence1_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Attack_Sword_Defence1_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Idle_Sword_Defence1_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Idle_Sword_Defence1_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Idle_Sword_Defence1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Idle_Sword_Defence1_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Idle_Sword_Defence1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Idle_Sword_Defence1_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Idle_Sword_Defence1_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Idle_Sword_Defence1_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Walk_Sword_Defence1_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Walk_Sword_Defence1_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Walk_Sword_Defence1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Walk_Sword_Defence1_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Walk_Sword_Defence1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Walk_Sword_Defence1_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Walk_Sword_Defence1_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence1/Player_Walk_Sword_Defence1_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Attack_Sword_Defence2_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Attack_Sword_Defence2_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Attack_Sword_Defence2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Attack_Sword_Defence2_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Attack_Sword_Defence2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Attack_Sword_Defence2_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Attack_Sword_Defence2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Attack_Sword_Defence2_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Idle_Sword_Defence2_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Idle_Sword_Defence2_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Idle_Sword_Defence2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Idle_Sword_Defence2_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Idle_Sword_Defence2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Idle_Sword_Defence2_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Idle_Sword_Defence2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Idle_Sword_Defence2_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Walk_Sword_Defence2_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Walk_Sword_Defence2_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Walk_Sword_Defence2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Walk_Sword_Defence2_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Walk_Sword_Defence2_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Walk_Sword_Defence2_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Walk_Sword_Defence2_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence2/Player_Walk_Sword_Defence2_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Attack_Sword_Defence3_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Attack_Sword_Defence3_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Attack_Sword_Defence3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Attack_Sword_Defence3_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Attack_Sword_Defence3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Attack_Sword_Defence3_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Attack_Sword_Defence3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Attack_Sword_Defence3_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Idle_Sword_Defence3_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Idle_Sword_Defence3_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Idle_Sword_Defence3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Idle_Sword_Defence3_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Idle_Sword_Defence3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Idle_Sword_Defence3_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Idle_Sword_Defence3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Idle_Sword_Defence3_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Walk_Sword_Defence3_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Walk_Sword_Defence3_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Walk_Sword_Defence3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Walk_Sword_Defence3_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Walk_Sword_Defence3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Walk_Sword_Defence3_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Walk_Sword_Defence3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence3/Player_Walk_Sword_Defence3_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Attack_Sword_Defence4_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Attack_Sword_Defence4_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Attack_Sword_Defence4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Attack_Sword_Defence4_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Attack_Sword_Defence4_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Attack_Sword_Defence4_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Attack_Sword_Defence4_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Attack_Sword_Defence4_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Idle_Sword_Defence4_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Idle_Sword_Defence4_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Idle_Sword_Defence4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Idle_Sword_Defence4_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Idle_Sword_Defence4_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Idle_Sword_Defence4_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Idle_Sword_Defence4_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Idle_Sword_Defence4_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Walk_Sword_Defence4_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Walk_Sword_Defence4_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Walk_Sword_Defence4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Walk_Sword_Defence4_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Walk_Sword_Defence4_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Walk_Sword_Defence4_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Walk_Sword_Defence4_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Defence4/Player_Walk_Sword_Defence4_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Player_Death_Sword_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Player_Death_Sword_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Player_Death_Sword_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Player_Death_Sword_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Player_Death_Sword_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Player_Death_Sword_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Player_Death_Sword_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword/Player_Death_Sword_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -508,13 +68,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/spriteAnimator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+            <state relative-caret-position="600">
+              <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
               <folding>
-                <marker date="1555083373884" expanded="true" signature="6:118" ph="..." />
+                <marker date="1555083373884" expanded="false" signature="6:118" ph="..." />
                 <marker date="1555083373884" expanded="true" signature="163:3811" ph="{...}" />
                 <marker date="1555083373884" expanded="true" signature="757:1981" ph="{...}" />
                 <marker date="1555083373884" expanded="true" signature="799:1670" ph="{...}" />
@@ -538,6 +98,22 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/loadingZones.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <folding>
+                <marker date="1555365920243" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555365920243" expanded="true" signature="121:402" ph="{...}" />
+                <marker date="1555365920243" expanded="true" signature="193:214" ph="{...}" />
+                <marker date="1555365920243" expanded="true" signature="272:293" ph="{...}" />
+                <marker date="1555365920243" expanded="true" signature="346:400" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -548,6 +124,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/spriteAnimator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/cameraBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/loadingZones.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -560,11 +137,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/cameraBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/attackAnimator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/spriteAnimator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/loadingZones.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="675" />
     <option name="width" value="698" />
     <option name="height" value="735" />
   </component>
@@ -576,11 +154,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
@@ -651,12 +229,14 @@
       <workItem from="1554485200742" duration="12476000" />
       <workItem from="1554568863170" duration="1618000" />
       <workItem from="1554732271588" duration="5813000" />
-      <workItem from="1555082497104" duration="877000" />
+      <workItem from="1555082497104" duration="1574000" />
+      <workItem from="1555118194656" duration="691000" />
+      <workItem from="1555353050442" duration="1365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40858000" />
+    <option name="totallyTimeSpent" value="43611000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -668,10 +248,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="690" height="727" extended-state="0" />
-    <editor active="true" />
+    <frame x="669" y="0" width="690" height="727" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24126984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25714287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -721,6 +300,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animator.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Scripts/JumpAndRunMovement.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/IPlayer.cs.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/attackAnimator.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/simpleMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -769,19 +349,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/attackAnimator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/spriteAnimator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        <state relative-caret-position="600">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
           <folding>
-            <marker date="1555083373884" expanded="true" signature="6:118" ph="..." />
+            <marker date="1555083373884" expanded="false" signature="6:118" ph="..." />
             <marker date="1555083373884" expanded="true" signature="163:3811" ph="{...}" />
             <marker date="1555083373884" expanded="true" signature="757:1981" ph="{...}" />
             <marker date="1555083373884" expanded="true" signature="799:1670" ph="{...}" />
@@ -800,6 +373,20 @@
             <marker date="1555083373884" expanded="true" signature="3365:3416" ph="{...}" />
             <marker date="1555083373884" expanded="true" signature="3589:3809" ph="{...}" />
             <marker date="1555083373884" expanded="true" signature="3642:3767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/loadingZones.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <marker date="1555365920243" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555365920243" expanded="true" signature="121:402" ph="{...}" />
+            <marker date="1555365920243" expanded="true" signature="193:214" ph="{...}" />
+            <marker date="1555365920243" expanded="true" signature="272:293" ph="{...}" />
+            <marker date="1555365920243" expanded="true" signature="346:400" ph="{...}" />
           </folding>
         </state>
       </provider>
