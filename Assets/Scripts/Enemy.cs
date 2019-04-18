@@ -58,7 +58,7 @@ public class Enemy : MonoBehaviour
                 speed = 3;
                 break;
             
-            case "goblin":
+            case "goblin2":
 
                 walk = Resources.LoadAll<Sprite>("goblinTwo/Walk");
                 death = Resources.LoadAll<Sprite>("goblinTwo/Death");

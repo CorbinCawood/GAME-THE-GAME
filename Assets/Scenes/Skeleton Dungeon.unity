@@ -16090,7 +16090,7 @@ PrefabInstance:
     - target: {fileID: 7230427919770125453, guid: ff8e80f273cf3334ebf04647b487fc22,
         type: 3}
       propertyPath: m_Name
-      value: Hub Zone
+      value: fromSkeleton
       objectReference: {fileID: 0}
     - target: {fileID: 7230427919770125448, guid: ff8e80f273cf3334ebf04647b487fc22,
         type: 3}

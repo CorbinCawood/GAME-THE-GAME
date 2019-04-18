@@ -19,27 +19,41 @@ public class loadingZones : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        switch (gameObject.name)
+        if (other.name == "Player")
         {
-            
-            case "Slime Zone":
 
-                SceneManager.LoadScene("Slime Dungeon");
-                break;
-            
-            case "Skeleton Zone":
-                SceneManager.LoadScene("Skeleton Dungeon");
-                break;
-            
-            case "Goblin Zone":
+            switch (gameObject.name)
+            {
 
-                SceneManager.LoadScene("Goblin Dungeon");
-                break;
-            
-            case "Hub Zone":
+                case "Slime Zone":
 
-                SceneManager.LoadScene("Hub Room");
-                break;
+                    SceneManager.LoadScene("Slime Dungeon");
+                    break;
+
+                case "Skeleton Zone":
+                    SceneManager.LoadScene("Skeleton Dungeon");
+                    break;
+
+                case "Goblin Zone":
+
+                    SceneManager.LoadScene("Goblin Dungeon");
+                    break;
+
+                case "fromGoblin":
+
+                    SceneManager.LoadScene("hubFromGoblin");
+                    break;
+
+                case "fromSkeleton":
+
+                    SceneManager.LoadScene("hubFromSkeleton");
+                    break;
+
+                case "fromSlime":
+
+                    SceneManager.LoadScene("hubFromSlime");
+                    break;
+            }
         }
     }
 }

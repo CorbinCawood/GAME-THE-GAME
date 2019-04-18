@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Slime Dungeon.unity
     guid: 560275c06ccc60843a40a3fe0a4c50b9
+  - enabled: 1
+    path: Assets/Scenes/hubFromGoblin.unity
+    guid: 2ecf7025665da5b469bdbef31f3435af
+  - enabled: 1
+    path: Assets/Scenes/hubFromSkeleton.unity
+    guid: 278ed9de04df85f44a392c8f873a25f2
+  - enabled: 1
+    path: Assets/Scenes/hubFromSlime.unity
+    guid: 25ba3684a2a2d384e8828a5fac3aae29
   m_configObjects: {}
