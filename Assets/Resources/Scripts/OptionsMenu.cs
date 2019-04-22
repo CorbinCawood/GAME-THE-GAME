@@ -3,18 +3,22 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class StartOptions : MonoBehaviour
+public class OptionsMenu : MonoBehaviour
 {
-    public bool hasBeenClicked = false;
     // Start is called before the first frame update
+    public  GameObject panel ;
+    private Dropdown player2;
+    
     void Start()
     {
-        
+        panel = GameObject.Find("Options Menu");
+    panel.SetActive(false);
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        gameObject.GetComponent<Button>().onClick.AddListener(()=>{ hasBeenClicked = true; });
+
     }
 }

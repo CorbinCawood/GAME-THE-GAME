@@ -25,10 +25,13 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="cameraBehaviour.cs" t="Include" />
+          <e p="confirmUi.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="follow.cs" t="Include" />
           <e p="IPlayer.cs" t="Include" />
           <e p="loadingZones.cs" t="Include" />
+          <e p="numPlayerDropdown.cs" t="Include" />
+          <e p="OptionsMenu.cs" t="Include" />
           <e p="simpleMovement.cs" t="Include" />
           <e p="spriteAnimator.cs" t="Include" />
           <e p="StartButton.cs" t="Include" />

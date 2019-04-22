@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class OptionsMenu : MonoBehaviour
+public class confirmUi : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -13,6 +14,9 @@ public class OptionsMenu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        gameObject.GetComponent<Button>().onClick.AddListener(() =>
+        {
+            GameObject.Find("Options Menu").SetActive(false);
+                        });
     }
 }
