@@ -17,12 +17,14 @@ public class Enemy : MonoBehaviour
     public Sprite[] death;
     
     
+    
     // Start is called before the first frame update
     void Start()
     {
+        gameObject.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
         switch (enemyType)
         {
-            
+                
             case "slime1":
 
                 walk = Resources.LoadAll<Sprite>("slimeOne/Walk");

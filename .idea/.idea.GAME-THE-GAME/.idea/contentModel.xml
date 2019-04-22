@@ -31,6 +31,8 @@
           <e p="loadingZones.cs" t="Include" />
           <e p="simpleMovement.cs" t="Include" />
           <e p="spriteAnimator.cs" t="Include" />
+          <e p="StartButton.cs" t="Include" />
+          <e p="StartOptions.cs" t="Include" />
         </e>
       </e>
       <e p="GAME-THE-GAME.sln" t="IncludeFlat" />
