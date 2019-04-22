@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Networking;
 using UnityEngine.UI;
 
 public class StartButton : MonoBehaviour
@@ -24,7 +25,9 @@ public class StartButton : MonoBehaviour
         gameObject.GetComponent<Button>().onClick.AddListener(() =>
         {
             cv.SetActive(false);
-            GameObject.FindWithTag("Player").GetComponent<simpleMovement>().speed = 150;
+            var player = GameObject.FindWithTag("Player");
+            player.GetComponent<simpleMovement>().speed = 150;
+           
         });
         
     }
