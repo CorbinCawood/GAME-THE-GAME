@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Defines how the camera behaves and follows the player.
 
 public class cameraBehaviour : MonoBehaviour
 {
@@ -17,7 +18,7 @@ public class cameraBehaviour : MonoBehaviour
         Player = GameObject.Find("P1(Clone)");
     }
 
-    // Start is called before the first frame update
+    // Start is called before the first frame update. Sets initial camera position.
     void Start()
     {
         Player = GameObject.Find("P1(Clone)");
@@ -26,9 +27,10 @@ public class cameraBehaviour : MonoBehaviour
 
     }
 
-    // Update is called once per frame
+    // Update is called once per frame to keep track of the player as they move
     void Update()
     {
+        //Find they player and get their position
         Player = GameObject.Find("P1(Clone)");
         float playerX = Player.transform.position.x;
         float playerY = Player.transform.position.y;
