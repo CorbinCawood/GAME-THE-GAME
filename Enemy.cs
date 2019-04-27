@@ -20,7 +20,7 @@ public class Enemy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        //Switch statement for choosing the enemy type
         switch (enemyType)
         {
                 
@@ -79,9 +79,10 @@ public class Enemy : MonoBehaviour
         isDead = false;
     }
 
-    // Update is called once per frame
+    // Updates the enemy once per frame
     void Update()
     {
+        //As long as the enemy is in range of the player and not dead, enemy will start walking towards the player.
         if (_inRange == true && isDead == false)
         {
             transform.position = Vector2.MoveTowards(transform.position, _target.position, speed * Time.deltaTime);
@@ -93,6 +94,7 @@ public class Enemy : MonoBehaviour
             }
         }
 
+        //If the enemy has no health remaining, set it as dead and run death animation
         if (enemyHealth == 0)
         {
             isDead = true;
@@ -100,6 +102,7 @@ public class Enemy : MonoBehaviour
        }
     }
 
+    //Set inRange to true if player is within range
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
@@ -108,6 +111,7 @@ public class Enemy : MonoBehaviour
         }
     }
 
+    //function for animating the enemy walk
     IEnumerator AnimateWalk()
     {
         for(int i = 0; i < walk.Length; i++)
@@ -120,6 +124,7 @@ public class Enemy : MonoBehaviour
         _isWalking = false;
     }
 
+    //Function for animating when an enemy dies
     IEnumerator AnimateDeath()
     {
 
