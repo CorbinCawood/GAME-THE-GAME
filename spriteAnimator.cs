@@ -29,7 +29,7 @@ public class spriteAnimator : MonoBehaviour
     public int playerType;
     public GameObject GM;
 
-    // Start is called before the first frame update
+    // Start is called before the first frame update. Initiate starting values.
     void Start()
     {
 
@@ -50,7 +50,7 @@ public class spriteAnimator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        //If space is pressed, perform attack animation
         if (Input.GetKeyUp("space"))
         {
             if (!_attackInProgress)
@@ -59,6 +59,7 @@ public class spriteAnimator : MonoBehaviour
                 _attackInProgress = true;
             }
         }
+        //If arrow keys are pressed, perfrom walking animations
         else if(Input.GetAxis("Horizontal") != 0.0f || Input.GetAxis("Vertical") != 0.0f)
         {
             if(!walkInProgress)
@@ -68,6 +69,7 @@ public class spriteAnimator : MonoBehaviour
                 walkInProgress = true;
             }
         }
+        //If no buttons pressed, perform idle animation
         else
         {
             if(!idleInProgress)
@@ -77,6 +79,7 @@ public class spriteAnimator : MonoBehaviour
 
     }
 
+    //Idle animation
     IEnumerator animateIdle()
     {
         for (int i = 0; i < idle.Length; i++)
@@ -87,20 +90,23 @@ public class spriteAnimator : MonoBehaviour
 
         idleInProgress = false;
     }
-
+    
+    //Walk animation
     IEnumerator animateWalk()
     {
 
-
+        //Loop until the player stops walking
         for (int i = 0; i < walk.Length; i++)
         {
             bool originalRight = Input.GetKey("right");
             bool originalLeft = Input.GetKey("left");
             
+            //If no change in horizontal or vertical, player is not walking. Break out of loop.
             if (Input.GetAxis("Horizontal") == 0.0f && Input.GetAxis("Vertical") == 0.0f)
             {
                 break;
             }
+            //If right is pushed
             else if (Input.GetKey("right") && !Input.GetKey("left"))
             {
                 spriteR.flipX = false;
@@ -109,6 +115,7 @@ public class spriteAnimator : MonoBehaviour
                     GetComponent<CircleCollider2D>().offset *= new Vector2(-1, 1);
                 }
             }
+            //If left is pushed
             else if(Input.GetKey("left") && !Input.GetKey("right"))
             {
 
@@ -127,6 +134,7 @@ public class spriteAnimator : MonoBehaviour
         walkInProgress = false;
     }
 
+    //Attack animation
     IEnumerator animateAttack()
     {
 
@@ -139,7 +147,8 @@ public class spriteAnimator : MonoBehaviour
 
         _attackInProgress = false;
     }
-
+    
+    //Death animation
     public IEnumerator animateDeath()
     {
 
@@ -155,6 +164,7 @@ public class spriteAnimator : MonoBehaviour
         Destroy(GameObject.FindGameObjectWithTag("Player"));
     }
 
+    //Animation when enemy is hit by an attack
     private void OnTriggerStay2D(Collider2D other)
     {
 
@@ -184,6 +194,7 @@ public class spriteAnimator : MonoBehaviour
         }
     }
 
+    //Animation for when player recieves damage
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Enemy" && collision.GetType() == typeof(BoxCollider2D) && gameObject.GetComponent<BoxCollider2D>().IsTouching(collision) == true)
@@ -205,6 +216,7 @@ public class spriteAnimator : MonoBehaviour
     }
    
 
+    //Animation for pausing the attack
     IEnumerator attackPause()
     {
         
