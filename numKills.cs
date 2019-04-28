@@ -4,6 +4,8 @@ using System.Net.Mime;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Defines the number of kills behaviour
+
 public class numKills : MonoBehaviour
 {
 
@@ -15,7 +17,7 @@ public class numKills : MonoBehaviour
 
     }
 
-    // Update is called once per frame
+    // Update is called once per frame. Updates the number of kills with each frame.
     void Update()
     {
         gameObject.GetComponent<Text>().text =
