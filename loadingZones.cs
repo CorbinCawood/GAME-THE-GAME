@@ -11,7 +11,7 @@ public class loadingZones : MonoBehaviour
     public bool visitedSkeleton;
     
     public bool visitedGoblin;
-    // Start is called before the first frame update
+    // Start is called before the first frame update. Initiate everything as unvisited.
     void Start()
     {
         GameObject gameManager = GameObject.Find("Game Manager");
@@ -26,12 +26,13 @@ public class loadingZones : MonoBehaviour
     {
         
     }
-
+    
+    //Loads the correct scene based on where the player goes.
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player" && other.GetType() != typeof(CircleCollider2D))
         {
-
+            //Switch statement to choose which scene to load based on player movement
             switch (gameObject.name)
             {
 
