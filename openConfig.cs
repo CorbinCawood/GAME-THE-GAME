@@ -8,7 +8,7 @@ public class openConfig : MonoBehaviour
 {
 
     public Button newGame;
-    // Start is called before the first frame update
+    // Start is called before the first frame update. Loads the configuration menu when the new game button is clicked.
     void Start()
     {
         newGame.onClick.AddListener(loadConfig);
@@ -20,6 +20,7 @@ public class openConfig : MonoBehaviour
         
     }
 
+    //Function for loading the Config Menu scene
     void loadConfig()
     {
         SceneManager.LoadScene("Config Menu");
