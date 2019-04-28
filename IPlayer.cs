@@ -63,6 +63,8 @@ public class Player : IPlayer
         throw new System.NotImplementedException();
     }
 }*/
+
+//Defines the TreeGraph class
 public class TreeGraph
 {
     public Dictionary<string,List<string>> graph = new Dictionary<string, List<string>>();
@@ -94,6 +96,7 @@ public class TreeGraph
     }
 }
 
+//Defines the node class
 public class node
 {
         
