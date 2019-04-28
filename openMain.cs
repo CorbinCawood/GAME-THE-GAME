@@ -11,7 +11,7 @@ public class openMain : MonoBehaviour
 
     
     
-    // Start is called before the first frame update
+    // Start is called before the first frame update. Loads the main menu scene when the main menu button is pressed.
     void Start()
     {
         startButton.onClick.AddListener(openMainMenu);
@@ -22,7 +22,8 @@ public class openMain : MonoBehaviour
     {
         
     }
-
+    
+    //Function for loading the main menu scene.
     void openMainMenu()
     {
 
