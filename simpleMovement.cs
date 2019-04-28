@@ -4,6 +4,8 @@ using System;
 using UnityEngine;
 using UnityEngine.Experimental.UIElements;
 
+//Defines the movement of characters in the game.
+
 public class simpleMovement : MonoBehaviour
 {
 
@@ -37,7 +39,7 @@ public class simpleMovement : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
+    // Update is called once per frame. Updates horizontal, verticle, and velocity.
     void Update()
     {
         if (Input.GetAxis("Horizontal") != 0 || Input.GetAxis("Vertical") != 0)
