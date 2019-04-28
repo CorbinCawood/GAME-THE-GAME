@@ -25,6 +25,8 @@ public class gameManager : MonoBehaviour
     public bool slimeLoaded;
     public bool finalBossLoaded;
     public int numKills;
+    
+    //Initialize the player
     void Awake()
     {
 
@@ -33,6 +35,7 @@ public class gameManager : MonoBehaviour
         finalBossLoaded = false;
         DontDestroyOnLoad(this.gameObject);
 
+        //Create new player when single player is selected
         singlePlayer = GameObject.Find("Button Manager").GetComponent<createGame>().singleDepressed;
         if (singlePlayer)
         {
@@ -63,7 +66,7 @@ public class gameManager : MonoBehaviour
     void Update()
     {
 
-
+        //update the current scene the player is in
         if(SceneManager.GetActiveScene().name != prevScene.name)
         {
             prevScene = SceneManager.GetActiveScene();
@@ -73,17 +76,20 @@ public class gameManager : MonoBehaviour
             }
 
         }
-
+        
+        //If the player gets 20 kills, load the final boss scene.
         if (numKills >= 20 && !finalBossLoaded)
         {
             SceneManager.LoadScene("finalBoss");
             numKills = 0;
         }
+        //If the player gets 30 kills and is in the boss scene, declare victory
         else if (numKills >= 30 && finalBossLoaded)
         {
             SceneManager.LoadScene("Victory");
         }
-
+        
+        //If the player has no health and is not dead yet, set them as dead and play death animation
         if (playerOne.playerHealth <= 0 && !dead)
         {
 
@@ -95,6 +101,7 @@ public class gameManager : MonoBehaviour
 
     }
 
+    //Set up the single player game. Instantiates the player.
     public void instantiateSingle()
     {
 
@@ -146,6 +153,7 @@ public class gameManager : MonoBehaviour
         
     }
 
+    //Function called when player takes damage
     public void damagePlayer()
     {
         
@@ -153,6 +161,7 @@ public class gameManager : MonoBehaviour
         playerOne.playerHealth -= 1;
     }
 
+    //Called when the player is killed and the game ends
     public IEnumerator delayThenGO()
     {
         yield return new WaitForSeconds(5f);
