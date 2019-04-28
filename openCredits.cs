@@ -9,7 +9,7 @@ public class openCredits : MonoBehaviour
 
     public Button credits;
     
-    // Start is called before the first frame update
+    // Start is called before the first frame update. Loads the credits scene when the credits button is pushed
     void Start()
     {
         credits.onClick.AddListener(loadCredits);
@@ -21,6 +21,7 @@ public class openCredits : MonoBehaviour
         
     }
 
+    //Function for loading the credits.
     void loadCredits()
     {
         SceneManager.LoadScene("Credits");
