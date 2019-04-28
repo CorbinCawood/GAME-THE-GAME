@@ -8,7 +8,7 @@ public class openLoad : MonoBehaviour
 {
 
     public Button loadMenu;
-    // Start is called before the first frame update
+    // Start is called before the first frame update. Loads the menu scene when the menu button is clicked.
     void Start()
     {
         loadMenu.onClick.AddListener(loadLoad);
@@ -19,7 +19,8 @@ public class openLoad : MonoBehaviour
     {
         
     }
-
+    
+    //Function for loading the menu
     void loadLoad()
     {
         SceneManager.LoadScene("Load Menu");
