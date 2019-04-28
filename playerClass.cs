@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+//Defines the player class with all of the player attributes
 public class playerClass
 {
 
