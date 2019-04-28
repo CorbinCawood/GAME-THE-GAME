@@ -8,7 +8,7 @@ public class openTitle : MonoBehaviour
 {
 
     public Button title;
-    // Start is called before the first frame update
+    // Start is called before the first frame update. Loads the title screen when the load title screen button is pressed.
     void Start()
     {
         title.onClick.AddListener(loadTitle);
@@ -19,7 +19,8 @@ public class openTitle : MonoBehaviour
     {
         
     }
-
+    
+    //Function for loading the title scene.
     void loadTitle()
     {
         SceneManager.LoadScene("Title Screen");
