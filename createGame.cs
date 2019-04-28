@@ -6,6 +6,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+//This is the code for creating a new game instance.
+
 public class createGame : MonoBehaviour
 {
 
@@ -37,6 +39,7 @@ public class createGame : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Single player selected, adjust menu for one player
         if (singleDepressed && !duelDepressed)
         {
             playerOneType.image.color = Color.white;
@@ -46,6 +49,7 @@ public class createGame : MonoBehaviour
             startGame.image.color = Color.white;
             startGame.interactable = true;
         }
+        //Two player selected, adjust menu for both players. Make buttons for player two interactable
         else if (!singleDepressed && duelDepressed)
         {
             playerOneType.image.color = Color.white;
@@ -55,6 +59,8 @@ public class createGame : MonoBehaviour
             startGame.image.color = Color.white;
             startGame.interactable = true;
         }
+        
+        //If number of players not selected, none of the buttons are interactable
         else
         {
             playerOneType.image.color = Color.black;
@@ -66,6 +72,7 @@ public class createGame : MonoBehaviour
         }
     }
 
+    //Function for single player selected. Sets up the menu for single player.
     void singleSelected()
     {
 
@@ -87,6 +94,7 @@ public class createGame : MonoBehaviour
         }
     }
 
+    //Function for when two player is selected. Sets up the menue for two players.
     void duelSelected()
     {
 
@@ -107,12 +115,14 @@ public class createGame : MonoBehaviour
             duelDepressed = false;
         }
     }
-
+    
+    //Loads the main menu
     void loadMain()
     {
         SceneManager.LoadScene("Main Menu");
     }
 
+    //Loads the starting room of the dungeon and initiates the game.
     void loadGame()
     {
         
