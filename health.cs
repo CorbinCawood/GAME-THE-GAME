@@ -4,6 +4,8 @@ using System.Net.Mime;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Defines the health behaviour
+
 public class health : MonoBehaviour
 {
 
@@ -12,7 +14,7 @@ public class health : MonoBehaviour
     public Text textObj;
     
     
-    // Start is called before the first frame update
+    // Start is called before the first frame update. Initializes the health component
     void Start()
     {
         healthTicks = Resources.LoadAll<Sprite>("HP/");
@@ -20,7 +22,7 @@ public class health : MonoBehaviour
 
     }
 
-    // Update is called once per frame
+    // Update is called once per frame. Updates the health each frame to keep up with any changes
     void Update()
     {
 
